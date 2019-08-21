@@ -1,6 +1,6 @@
 import scrapy
 import requests
-import unittest i cant see shit
+import unittest
 
 url = 'http://172.18.58.238/spicyx/'
 url2 = 'http://172.18.58.238/headers.php'
